@@ -8,7 +8,7 @@
 + 致力于加速 游戏开发的各种标准化进程<br>
 Is committed to accelerating the standardization process of game development<br>
 + 超业余运维、蓝队<br>
-Super Amateur DevOps , Blue Team<br>
+Super Amateur DevOps, Blue Team<br>
 + 尝试解释玄学<br>
 Trying to explain the occult<br>
 <img src="https://github-readme-stats.vercel.app/api?username=mkitto&show_icons=true&theme=dark" width="380px">
