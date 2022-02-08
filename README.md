@@ -10,6 +10,7 @@ Is committed to accelerating the standardization process of game development<br>
 Super Amateur DevOps, Blue Team<br>
 + 尝试解释玄学<br>
 Trying to explain the occult<br>
+![](https://github-readme-stats.vercel.app/api?username=mkitto&show_icons=true&theme=dark) 
 
 <!--
 **mkitto/mkitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
