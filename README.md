@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Noob-GameDev-brightgreen)
-![](https://img.shields.io/badge/Amateur-BlueTeam-blue)
-![](https://img.shields.io/badge/Amateur-DevOps-c1f12e)
+![](https://img.shields.io/badge/Super%20Amateur-BlueTeam-blue)
+![](https://img.shields.io/badge/Super%20Amateur-DevOps-c1f12e)
 ![](https://img.shields.io/badge/Inefficient%20interpreter-Occult-lightgrey)
 
 致力于加速 游戏开发的各种标准化进程<br>
