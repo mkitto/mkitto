@@ -1,4 +1,5 @@
-### Welcome
+![](https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&color=%2339D353&lines=Welcome+!;Maybe+you+are+a+Gamedev+.;(+main+program+or+TA+)+%2C;or+Hacker+.;Nice+to+meet+you+%2C+dalao+!)
+
 ![](https://img.shields.io/badge/Noob-GameDev-brightgreen)
 ![](https://img.shields.io/badge/Super%20Amateur-DevOps-c1f12e)
 ![](https://img.shields.io/badge/Super%20Amateur-BlueTeam-blue)
