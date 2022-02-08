@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Noob-GameDev-dark)
+![](https://img.shields.io/badge/Noob-GameDev-green)
 ![](https://img.shields.io/badge/Amateur-BlueTeam-blue)
 ![](https://img.shields.io/badge/Amateur-DevOps-blue)
 
