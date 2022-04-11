@@ -7,6 +7,8 @@
 
 + 致力于加速 游戏开发的各种标准化进程<br>
 Is committed to accelerating the standardization process of game development<br>
+喜欢制作模组(bug修正 机制增加 模型修改 声音修改 本地化)<br>
+Love making mods(Love making mods(Bug Fix, Mechanics add, Characters Modify, Audio Modify, Localization)<br>
 + 超业余运维、蓝队<br>
 Super Amateur DevOps, Blue Team<br>
 + 尝试解释玄学<br>
